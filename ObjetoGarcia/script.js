@@ -10,7 +10,7 @@ function gerarAluno(objAluno){
                     "<tbody>"
     var media1 = 0;
     var media2 = 0;
-    var ap = 0;
+    var ap = 0; 
     var rep = 0;
     for(let i = 0; i < objAluno.length; i++){
         // console.log(media1);
